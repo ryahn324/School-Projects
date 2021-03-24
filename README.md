@@ -1,4 +1,4 @@
-# school-fundamentals
+# School Projects
 
 Rachel Ahn  
 Towson University 2015-2020 
