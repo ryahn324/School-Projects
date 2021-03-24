@@ -14,5 +14,6 @@ This repository contains site projects/assignments for two courses at TU:
 These courses had their own requirements.  
 They will have separate folders.  
 
-<p>**ITEC 231 site was created from scratch with a code editor.*  
- *COSC 109 site was done with Microsoft Expression.*</p>
+<p><em>*ITEC 231 site was created from scratch with a code editor.<br>
+  COSC 109 site was done with Microsoft Expression.</em>
+</p>
